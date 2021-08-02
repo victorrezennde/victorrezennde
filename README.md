@@ -1,6 +1,6 @@
 ## Hello there! I'm Victor Rezende✋
 
-  - 🔭 I’m currently working on Qintess
+  - 🔭 I’m currently working at Qintess
   - 🌱 I’m currently learning C#
   - 💻 Always looking for new challenges
 
