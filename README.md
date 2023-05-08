@@ -1,8 +1,8 @@
 ## Hello there! I'm Victor Rezende✋
 
-  - 🔭 I’m currently working at Qintess
-  - 🌱 I’m currently learning C#
-  - 💻 Always looking for new challenges
+  - 🔭 Data Analyst at @Bravium / ex-cielo
+  - 🌱 I’m currently learning Machine Learning
+  - 💻 Always looking for new challenges!
 
  <div>
   <a href="https://github.com/victorrezennde">
@@ -10,15 +10,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+
   ##
   
 📱 Contact me:
