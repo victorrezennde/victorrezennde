@@ -17,8 +17,7 @@
 📱 Contact me:
 <div> 
    <a href="https://www.linkedin.com/in/victor-rezende-carboni-723a78199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="[https://api.whatsapp.com/send?phone=+551191302-2937](https://api.whatsapp.com/send?phone=5511913022937&text=Oi,%20Victor!!
-)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   <a href="https://api.whatsapp.com/send?phone=5511913022937&text=Oi,%20Victor!!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:victorrezende@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
   <!--
