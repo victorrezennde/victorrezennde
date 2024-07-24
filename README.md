@@ -4,7 +4,7 @@
   - 🌱 I’m currently learning Data Engineering
   - 💻 Using now in project: Python for data manipulation, SQL Server, Power Plataform and Pentaho for Datawarehousing
 
-With over 3 years of experience, I’ve worked at major companies focusing on the dream of business modeling, gathering requirements with data governance (ETL & ELT), data architecture, and obtaining powerful insights.   I highlight my hard skills in data modeling DL & DW, complex SQL queries, process automation and statistical analysis with Python and PowerPlataform, and proficiency in developing DataViz. Additionally, I bring  a background as an extremely communicative and easy-to-work-with  person, being very flexible and open to ideas.
+## With over 3 years of experience, I’ve worked at major companies focusing on the dream of business modeling, gathering requirements with data governance (ETL & ELT), data architecture, and obtaining powerful insights.   I highlight my hard skills in data modeling DL & DW, complex SQL queries, process automation and statistical analysis with Python and PowerPlataform, and proficiency in developing DataViz. Additionally, I bring  a background as an extremely communicative and easy-to-work-with  person, being very flexible and open to ideas.
 
 <!--
  <div>
