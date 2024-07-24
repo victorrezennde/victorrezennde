@@ -1,8 +1,8 @@
 ## Hello there! I'm Victor Rezende✋
 
-  - 🔭 Data Analyst at @Bravium / ex-cielo
-  - 🌱 I’m currently learning Machine Learning
-  - 💻 Always looking for new challenges!
+  - 🔭 Business Analytics II @MinervaFoods / ex-cielo
+  - 🌱 I’m currently learning Data Engineering
+  - 💻 Using now in project: Python for data manipulation, SQL Server, Power Plataform and Pentaho for Datawarehousing
 
 <!--
  <div>
